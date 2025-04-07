@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-    https://cledianealencar.github.io/PROJECT-DevDobro/
+  https://cledianealencar.github.io/PROJECT-DevDobro/
 
 ## :memo: Licença
 
